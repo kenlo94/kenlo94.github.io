@@ -4,15 +4,15 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Analyzing Kickstarter Campaigns with Excel](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Stock Market Analysis using VBA](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Python-Based Financial and Election Analyses: A Case Study](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
