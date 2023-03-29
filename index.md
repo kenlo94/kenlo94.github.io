@@ -13,7 +13,7 @@
 
 ---
 [Python-Based Financial and Election Analyses: A Case Study](http://example.com/)
-<img src="images/vsp.png?raw=true"/>
+<img src="images/vp.png?raw=true"/>
 
 ---
 
