@@ -15,11 +15,11 @@ Use the Kickstarter data to create two new analyses:
 
 For the first analysis, tasks included creating new columns, sheets, pivot tables, filtering the pivot table, and creating a chart from that pivot table. 
 
-![Screenshot](https://github.com/kenlo94/kickstarter_analysis/blob/main/Images/Pivot_table1.PNG) ![Screenshot](https://github.com/kenlo94/kickstarter_analysis/blob/main/Images/Pivot_table2.PNG)
+![Screenshot](Images/Pivot_table1.PNG) ![Screenshot](Images/Pivot_table2.PNG)
 
 For the second analysis, tasks included changing the format of data in a column, using a new function: COUNTIFS(), and visualizing percentages using a chart.
 
-![Screenshot](https://github.com/kenlo94/kickstarter_analysis/blob/main/Images/Outcomes_Goals_Table.png)
+![Screenshot](Images/Outcomes_Goals_Table.png)
 
 ## Challenges
 
@@ -29,13 +29,13 @@ A challenge I ran into was learning how to use the new COUNTIFS() function. This
 
 ### What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-![Screenshot](https://github.com/kenlo94/kickstarter_analysis/blob/main/Images/Outcome_vs_Launch.png)
+![Screenshot](Images/Outcome_vs_Launch.png)
 
 If a campaign is launched in the Summer months (May, June, July) then they are more likely to succeed since the count of successful campaigns is higher during that time period. Another conclusion that can be drawn is that canceled campaigns are low and steady all year round at or below 7 counts.
 
 ### What can you conclude about the Outcomes based on Goals?
 
-![Screenshot](https://github.com/kenlo94/kickstarter_analysis/blob/main/Images/Outcome_vs_Goals.png)
+![Screenshot](Images/Outcome_vs_Goals.png)
 
 Generally speaking, the lower the goal amount, the higher the success rate. Although there are some instances where campaigns are just as successful, such as in the 35k to 45k range. Also, none of these campaigns were canceled, which was quite surpising to see.
 
