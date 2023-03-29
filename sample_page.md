@@ -1,16 +1,17 @@
 # Analyzing Kickstarter Campaigns with Excel
 
-## Resources
+## __Resources__
 Data Source: Kickstarter_Challenge.xlsx
+
 Software: Microsoft Excel Version 2302
 
-## Project Overview
+## __Project Overview__
 
 Use the Kickstarter data to create two new analyses: 
 1. Outcomes based on launch date: Using a pivot table, determine the number of successful, failed, or canceled campaigns, based off of the month that they were launched in.
 2. Outcomes based on goal amount. After grouping each campaign into bins using the goal amount, determine the percentages of campaigns that were successful, failed, or canceled. 
 
-## Results & Analysis
+## __Results & Analysis__
 
 For the first analysis, tasks included creating new columns, sheets, pivot tables, filtering the pivot table, and creating a chart from that pivot table. 
 
@@ -20,11 +21,11 @@ For the second analysis, tasks included changing the format of data in a column,
 
 ![Screenshot](Images/Outcomes_Goals_Table.png)
 
-## Challenges
+## __Challenges__
 
 A challenge I ran into was learning how to use the new COUNTIFS() function. This was the first time I had used this function and I was unsure what arguments to input into the function. It became easier to understand once I researched how this function operated. However, I was still making errors on my notation so I kept having to go back to edit my arguments.
 
-## Drawing Insights
+## __Drawing Insights__
 
 ### What are two conclusions you can draw about the Outcomes based on Launch Date?
 
