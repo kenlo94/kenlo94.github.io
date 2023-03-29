@@ -9,7 +9,7 @@
 
 ---
 [Stock Market Analysis using VBA](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Excel_VBA_Logo.jpg?raw=true"/>
 
 ---
 [Python-Based Financial and Election Analyses: A Case Study](http://example.com/)
