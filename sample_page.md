@@ -2,6 +2,7 @@
 
 ## Resources
 Data Source: Kickstarter_Challenge.xlsx
+
 Software: Microsoft Excel Version 2302
 
 ## Project Overview
