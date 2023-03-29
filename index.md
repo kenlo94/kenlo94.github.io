@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Analyzing Kickstarter Campaigns with Excel](/sample_page)
-<img src="images/Microsoft_Excel_Logo.png?raw=true">(href="https://kenlo94.github.io/sample_page")
+<href="https://kenlo94.github.io/sample_page" img src="images/Microsoft_Excel_Logo.png?raw=true">
 
 ---
 [Stock Market Analysis using VBA](/pdf/sample_presentation.pdf)
