@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Analyzing Kickstarter Campaigns with Excel](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/ms_excel_logo.jpg?raw=true"/>
 
 ---
 [Stock Market Analysis using VBA](/pdf/sample_presentation.pdf)
