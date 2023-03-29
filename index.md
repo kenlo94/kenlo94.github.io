@@ -8,7 +8,7 @@
 <img src="images/excel.png?raw=true"/>
 
 ---
-[Stock Market Analysis using VBA](/pdf/sample_presentation.pdf)
+[Stock Market Analysis using VBA](https://kenlo94.github.io/stock_analysis/)
 <img src="images/vba.png?raw=true"/>
 
 ---
