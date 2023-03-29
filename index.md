@@ -16,6 +16,8 @@
 <img src="images/vp.png?raw=true"/>
 
 ---
+[Analyzing School District Data using Jupyter Notebook & Pandas](https://kenlo94.github.io/school_district_analysis/)
+<img src="images/ppj.PNG?raw=true"/>
 
 ### Category Name 2
 
