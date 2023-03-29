@@ -20,6 +20,10 @@
 <img src="images/ppj.PNG?raw=true"/>
 
 ---
+[Analyzing Anti-Cancer Medications in Mice using Jupyter Notebook, Pandas, & Matplotlib](https://kenlo94.github.io/pharmaceutical_analysis/)
+<img src="images/ppjm.png?raw=true"/>
+
+---
 
 ### Category Name 2
 
