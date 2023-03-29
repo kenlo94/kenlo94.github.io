@@ -12,7 +12,7 @@
 <img src="images/vba.png?raw=true"/>
 
 ---
-[Python-Based Financial and Election Analyses: A Case Study](http://example.com/)
+[Python-Based Financial and Election Analyses: A Case Study](https://kenlo94.github.io/financial_election_analysis/)
 <img src="images/vp.png?raw=true"/>
 
 ---
