@@ -5,15 +5,15 @@
 ### Category Name 1 
 
 [Analyzing Kickstarter Campaigns with Excel](/sample_page)
-<img src="images/Microsoft_Excel_Logo.png?raw=true"/>
+<img src="images/excel.png?raw=true"/>
 
 ---
 [Stock Market Analysis using VBA](/pdf/sample_presentation.pdf)
-<img src="images/Microsoft_Excel_VBA_Logo.png?raw=true"/>
+<img src="images/vba.png?raw=true"/>
 
 ---
 [Python-Based Financial and Election Analyses: A Case Study](http://example.com/)
-<img src="images/VScode_Python.png?raw=true"/>
+<img src="images/vsc_py.png?raw=true"/>
 
 ---
 
