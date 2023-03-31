@@ -24,6 +24,10 @@
 <img src="images/ppjm.png?raw=true"/>
 
 ---
+[Reconstructing Pewlett Hackard's Employee Database: Data Modeling, Engineering, and Analysis of 1980s and 1990s Employment Trends](https://kenlo94.github.io/Pewlett-Hackard-Analysis/)
+<img src="images/pgsql.png?raw=true"/>
+
+---
 
 ### Category Name 2
 
