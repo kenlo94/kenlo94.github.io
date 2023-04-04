@@ -6,8 +6,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   I am currently a Teaching Assistant for edX in the Data Analytics and Visualization Boot Camp hosted by the UC Berkeley.
   <br><br>
-  I have my Bachelor's of Science Degree in Mechanical Engineering from CSU Sacramento. I am looking for an opportunity to work in Data Analysis, Data Engineering, or Data Science.
-  
+  I have my Bachelor's of Science Degree in Mechanical Engineering from CSU Sacramento.
+  <br><br>
+  I am looking for an opportunity to work in Data Analysis.
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
