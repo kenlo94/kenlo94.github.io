@@ -1,7 +1,8 @@
-## Projects
+## Portfolio
 
 ---
 
+### Projects
 
 [Analyzing Kickstarter Campaigns with Excel](https://kenlo94.github.io/kickstarter_analysis/)
 <img src="images/excel2.png?raw=true"/>
