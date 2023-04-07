@@ -29,7 +29,7 @@
 
 ---
 
-### Data Visualization
+### Data Visualization using Tableau and Power BI
 
 - [NYC Citi Bike Summary for August 2019](https://kenlo94.github.io/NYC_CitiBike/)
 - [Titanic Survival Data](http://example.com/)
