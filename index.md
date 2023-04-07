@@ -2,6 +2,8 @@
 
 ---
 
+### Data Manipulation & Exploration
+
 [Analyzing Kickstarter Campaigns with Excel](https://kenlo94.github.io/kickstarter_analysis/)
 <img src="images/excel2.png?raw=true"/>
 
@@ -27,13 +29,12 @@
 
 ---
 
-### Category Name 2
+### Data Visualization
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
+- [NYC Citi Bike Summary for August 2019](https://kenlo94.github.io/NYC_CitiBike/)
+- [Titanic Survival Data](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
