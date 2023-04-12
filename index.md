@@ -2,6 +2,15 @@
 
 ---
 
+### Data Visualization using Tableau & Power BI
+
+- [NYC Citi Bike Summary for August 2019](https://kenlo94.github.io/NYC_CitiBike/)
+- [Tragedy at Sea: Analyzing Titanic Passenger Data](https://kenlo94.github.io/Titanic_Survival_Analysis/)
+- [Project 3 Title](http://example.com/)
+- [Project 4 Title](http://example.com/)
+
+---
+
 ### Data Manipulation & Exploration
 
 [Analyzing Kickstarter Campaigns with Excel](https://kenlo94.github.io/kickstarter_analysis/)
@@ -26,15 +35,6 @@
 ---
 [Reconstructing Pewlett Hackard's Employee Database: Data Modeling, Engineering, and Analysis of 1980s and 1990s Employment Trends](https://kenlo94.github.io/Pewlett-Hackard-Analysis/)
 <img src="images/pgsql.png?raw=true"/>
-
----
-
-### Data Visualization using Tableau & Power BI
-
-- [NYC Citi Bike Summary for August 2019](https://kenlo94.github.io/NYC_CitiBike/)
-- [Tragedy at Sea: Analyzing Titanic Passenger Data](https://kenlo94.github.io/Titanic_Survival_Analysis/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
 
 ---
 
