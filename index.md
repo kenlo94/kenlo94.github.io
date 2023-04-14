@@ -7,7 +7,7 @@
 - [NYC Citi Bike Summary for August 2019](https://kenlo94.github.io/NYC_CitiBike/)
 - [Tragedy at Sea: Analyzing Titanic Passenger Data](https://kenlo94.github.io/Titanic_Survival_Analysis/)
 - [Manhattan Neighborhood Sales for 1-3 Family Homes in 2009](https://kenlo94.github.io/Manhattan_Neighborhood_Sales/)
-- [Project 4 Title](http://example.com/)
+- [Examining NYC’s Earned Income Tax Credit: A 10-Year Overview](https://kenlo94.github.io/NYC_EITC_Summary/)
 
 ---
 
